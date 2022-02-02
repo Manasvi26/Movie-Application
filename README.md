@@ -1,4 +1,5 @@
 # Movie-Application
-This is website where you can search for your favorite movies.
+This is with Vanila Js,HTML and CSS. Here you can go and look into the details of latest movies.
 
-This is a project with pure vanila Js. Here you can search for your favorite movies and look into there details.
+If you wnat to know or get information about a particular movie, then you can search for it.
+You only need to type the name of that movie in the search box (present in the header) and then just hit "enter" on your keyboard. All the movies related to that keyword will be shown.
